@@ -15,4 +15,4 @@ channel.send(`hdfh`)
 })
  
  
-client.login('NTA1NzExNjU0OTc4MTkxMzgy.DrXo8Q.30R0dU4-XWRaQW06VkEtz2mHRVo');
+client.login(process.env.BOT_TOKEN);
